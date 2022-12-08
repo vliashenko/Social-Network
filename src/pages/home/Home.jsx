@@ -7,43 +7,7 @@ const Home = () => {
     return (
         <div className='home'>
             <Stories/>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
-            <h1>home</h1>
+            <Posts/>
         </div>
     );
 };

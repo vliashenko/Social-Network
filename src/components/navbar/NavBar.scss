@@ -1,6 +1,7 @@
 @import '../../style.scss';
 
 .navbar {
+    z-index: 1;
     @include themify($themes) {
 
         display: flex;
